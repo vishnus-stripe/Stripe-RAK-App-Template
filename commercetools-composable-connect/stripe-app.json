@@ -1,0 +1,305 @@
+{
+  "connect_permissions": null,
+  "distribution_type": "public",
+  "icon": "",
+  "id": "com.stripe.commercetoolscomposable",
+  "name": "Commercetools Composable Commerce",
+  "permissions": [
+    {
+      "permission": "connected_account_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "account_link_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "application_fee_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "application_fee_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "balance_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "balance_transaction_source_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "billing_clock_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "billing_clock_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "charge_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "charge_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "checkout_session_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "checkout_session_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "coupon_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "coupon_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "credit_note_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "credit_note_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "customer_portal_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "customer_portal_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "customer_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "customer_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "dispute_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "dispute_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "edit_link_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "elements_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "event_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "file_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "file_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "invoice_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "invoice_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "mandate_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "mandate_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "order_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "order_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_intent_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_intent_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_links_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_links_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_method_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payment_method_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payout_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "payout_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "plan_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "plan_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "product_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "product_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "quote_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "quote_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "report_runs_and_report_types_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "secret_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "setup_intent_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "setup_intent_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "sku_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "sku_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "source_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "source_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "subscription_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "subscription_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "tax_rate_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "tax_rate_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "token_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "token_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "top_up_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "top_up_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "transfer_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "transfer_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "usage_record_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "usage_record_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "shipping_rate_read",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "shipping_rate_write",
+      "purpose": "Commercetools Composable Commerce app"
+    },
+    {
+      "permission": "webhook_write",
+      "purpose": "Commercetools Composable Commerce app"
+    }
+  ],
+  "sandbox_install_compatible": true,
+  "stripe_api_access_type": "restricted_api_key",
+  "ui_extension": {
+    "content_security_policy": {
+      "connect-src": null,
+      "image-src": null,
+      "purpose": ""
+    },
+    "views": [
+      {
+        "component": "AppSettings",
+        "viewport": "settings"
+      }
+    ]
+  },
+  "version": "0.0.1"
+}
