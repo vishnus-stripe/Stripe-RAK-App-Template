@@ -1,7 +1,7 @@
 {
   "connect_permissions": null,
   "distribution_type": "public",
-  "icon": "",
+  "icon": "./commercetools_logo.png",
   "id": "com.stripe.commercetoolscomposable",
   "name": "Commercetools Composable Commerce",
   "permissions": [
@@ -301,5 +301,5 @@
       }
     ]
   },
-  "version": "0.0.1"
+  "version": "0.0.3"
 }
